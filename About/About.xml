@@ -6,5 +6,7 @@
 	<li>1.4</li>
    </supportedVersions>
    <packageId>JoeDaly.Neutro.Medieval</packageId>
-  <description>Adds a plant called Neutroaleaf, Which can be refined into Neutroamine. Original author is nanonator102. This version is unlocked at Medieval tech level.</description>
+  <description>Adds a plant called Neutroaleaf, Which can be refined into Neutroamine. This version is unlocked at Medieval tech level.
+	  Original author is nanonator102. Russian translation by Selfarion.
+	  </description>
 </ModMetaData>
