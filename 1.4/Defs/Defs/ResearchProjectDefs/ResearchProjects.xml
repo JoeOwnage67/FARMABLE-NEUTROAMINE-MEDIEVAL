@@ -5,7 +5,7 @@
 		<label>Neutroaleaf Refining</label>
 		<description>Learn how to refine Neutroaleaf into Neutroamine, A helpful resource in medical supplies.</description>
 		<baseCost>1000</baseCost>
-		<techLevel>Industrial</techLevel>
+		<techLevel>Medieval</techLevel>
 		<prerequisites>
 			<li>DrugProduction</li>
 		</prerequisites>
@@ -18,7 +18,7 @@
 		<label>Neutroaleaf Planting</label>
 		<description>Learn how to plant the neutroaleaf crop.</description>
 		<baseCost>1000</baseCost>
-		<techLevel>Industrial</techLevel>
+		<techLevel>Medieval</techLevel>
 		<prerequisites>
 			<li>DrugProduction</li>
 		</prerequisites>
