@@ -1,4 +1,4 @@
-**Farmable Neutroamine - Medieval**
+**FARMABLE NEUTROAMINE - MEDIEVAL**
 
 **Support**
 
