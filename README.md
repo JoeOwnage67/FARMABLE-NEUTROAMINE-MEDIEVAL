@@ -18,6 +18,10 @@ THIS MOD:
 
 https://github.com/JoeOwnage67/Farmable-Neutroamine-Medieval
 
+Medieval Medicines - Medieval Overhaul Edition:
+
+https://github.com/JoeOwnage67/MedievalMedicines-Medieval-Overhaul-Edition/
+
 **UPDATES**
 
 MARCH 2024:
