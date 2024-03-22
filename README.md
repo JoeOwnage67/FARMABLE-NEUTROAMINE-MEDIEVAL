@@ -1,4 +1,7 @@
-# Farmable-Neutroamine-Medieval
+**Support**
+
+If you like this content, feel free buy me a coffee at ko-fi.com/joeownage 
+
 **DESCRIPTION**
 
 Adds a plant called Neutroaleaf, Which can be refined into Neutroamine. 
