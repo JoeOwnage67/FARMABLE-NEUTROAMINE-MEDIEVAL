@@ -23,10 +23,12 @@
 		<products>
 			<Neutroamine>1</Neutroamine>
 		</products>
-		<workAmount>250</workAmount>
+		<workAmount>450</workAmount>
 		<workSkill>Crafting</workSkill>
 		<recipeUsers>
 			<li>DrugLab</li>
+			<li>FueledStove</li>
+			<li>ElectricStove</li>
 		</recipeUsers>
 		<researchPrerequisite>NeutroaleafRefining</researchPrerequisite>
 	</RecipeDef>

@@ -12,14 +12,9 @@
 	<packageId>JoeDaly.Neutro.Medieval</packageId>
 	<loadAfter>
 		<li>SirMashedPotato.MedievalDrugLab</li>
-	</loadAfter>
-	<modDependencies>
-		<li>
-			<packageId>SirMashedPotato.MedievalDrugLab</packageId>
-			<displayName>Medieval drug lab</displayName>
-		</li>
-	</modDependencies>
+		<li>VR.MOPatches</li><!-- Medieval Overhaul Patches -->
+	</loadAfter>	
 	<description>Adds a plant called Neutroaleaf, Which can be refined into Neutroamine. This version is unlocked at Medieval tech level.
-	  Original author is nanonator102. Russian translation by Selfarion.
+	  Original author is nanonator102. Russian translation by Selfarion. You'll need either Medieval Drug Lab by SirMashedPotato or Medieval Overhaul Patches (enable medieval drug lab and recipes in options) to refine it.
 	</description>
 </ModMetaData>
